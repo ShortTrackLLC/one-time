@@ -1,0 +1,7 @@
+{:deps
+ {org.clojure/clojure #:mvn{:version "1.10.0"}
+  commons-codec/commons-codec #:mvn{:version  "1.15"}
+  ring/ring-codec #:mvn{:version "1.2.0"}
+  io.nayuki/qrcodegen #:mvn{:version "1.5.0"}}
+ :paths ["one-time/src"]
+ }
